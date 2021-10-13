@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there 👋
+![](https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif)
 
-<!--
-**honziktillu/honziktillu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Back-End Developer living on borrowed time 💀
 
-Here are some ideas to get you started:
+###### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏋️‍♂️ `health++`
+- 🍑 If You Know You Know 😏
+- 📈 All in `S&P 500` and `₿itcoin`
+
+###### BIO
+
+- 🏫 I work as a [teacher](https://spsmb.cz/)
+- ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.scss`, `.java`
+- 💾 `npm i new-life`
+- 🤡 Used to work in `.php`
+- 👨‍💻 Accidentally cracked 🎮 (don't tell Sony 👀)
+- 🎞️ Favorite movies: LOTR, Marvel, DC, 🦶 What ain't no country I ever heard of 💼🌟
+- <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="14" height="18"> Owner of `Raspberry Pi 4B`, `Raspberry Pi 3B+`, `Raspberry Pi Zero W`
+- 💻 Running on `Windows 10`, `Ubuntu` and `Kali`
+- ⌚ Learning all about `Wear OS`
+
+###### Ezekiel 25:17
+The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evilmen. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon you.
