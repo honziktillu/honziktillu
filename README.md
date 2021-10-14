@@ -6,7 +6,7 @@ I'm a Back-End Developer living on borrowed time 💀
 ###### NOW
 
 - 🏋️‍♂️ `health++`
-- 🍑 If You Know You Know 😏
+- 🍑 If You Know You [Know](https://www.youtube.com/watch?v=xvFZjo5PgG0) 😏
 - 📈 All in `S&P 500` and `₿itcoin`
 
 ###### BIO
