@@ -18,7 +18,7 @@ I'm a Back-End Developer living on borrowed time 💀
 - 👨‍💻 Accidentally cracked 🎮 (don't tell Sony 👀)
 - 🎞️ Favorite movies: LOTR, Marvel, DC, 🦶 What ain't no country I ever heard of 💼🌟
 - <img src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png" width="14" height="18"> Owner of `Raspberry Pi 4B`, `Raspberry Pi 3B+`, `Raspberry Pi Zero W`
-- 💻 Running on `Windows 10`, `Ubuntu` and `Kali`
+- 💻 Running on `Windows 11`, `Windows 10`, `Ubuntu` and `Kali`
 - ⌚ Learning all about `Wear OS`
 
 ###### Ezekiel 25:17
