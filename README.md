@@ -1,4 +1,6 @@
 # Hello there 👋
+![](https://media.tenor.com/Ohz8qgdHF94AAAAd/bako-zintyn.gif)
+
 ![](https://c.tenor.com/ZOfq5Jc-PYgAAAAM/sad-cement.gif)
 
 I'm a Back-End Developer living on borrowed time 💀
