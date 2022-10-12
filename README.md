@@ -1,15 +1,6 @@
-# Hello there 👋
-![](https://media.tenor.com/Ohz8qgdHF94AAAAd/bako-zintyn.gif)
+![the-boys-homelander](https://user-images.githubusercontent.com/72889363/195391283-2d65d0c8-0ad7-48d0-af1b-ea6c5abb2efe.gif)
 
-![](https://c.tenor.com/ZOfq5Jc-PYgAAAAM/sad-cement.gif)
-
-I'm a Back-End Developer living on borrowed time 💀
-
-###### NOW
-
-- 🏋️‍♂️ `health++`
-- 🍑 If You Know You [Know](https://www.youtube.com/watch?v=xvFZjo5PgG0) 😏
-- 📈 `S&P 500` and `Lockheed` enjoyer
+# I don’t make mistakes. I’m not “just like the rest of you.” I’m stronger. I’m smarter. I’m better. I am better.
 
 ###### BIO
 
@@ -24,6 +15,3 @@ I'm a Back-End Developer living on borrowed time 💀
 
 ###### Ezekiel 25:17
 The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evilmen. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers. And you will know my name is the Lord when I lay my vengeance upon you.
-
-<img src="https://github.com/honziktillu/honziktillu/blob/3b487a394c0c519661a7b4c48c6236536ff36586/Pa%CC%81n%20programu1.jpg">
-<img src="https://github.com/honziktillu/honziktillu/blob/3b487a394c0c519661a7b4c48c6236536ff36586/Pa%CC%81n%20programu2.jpg">
